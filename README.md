@@ -1,7 +1,3 @@
-Here's a revised version of your README.md file with attractive icons and enhanced formatting:
-
----
-
 # Chrome Extensions Samples
 
 🔧 **Official samples for Chrome Extensions** and the deprecated **Chrome Apps platform**. For more details on Chrome Apps, refer to the [Chromium blog](https://blog.chromium.org/2020/08/changes-to-chrome-app-support-timeline.html).
